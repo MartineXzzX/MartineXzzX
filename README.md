@@ -1,7 +1,7 @@
 # 💫 About Me:
 ![simpsons-hi](https://user-images.githubusercontent.com/132088584/235222184-2f7e8744-32eb-4b4e-9609-832837dd365a.gif)
 
-Hola!\n
+Hola!
 Me llamo Martín Soñez, soy Programador Jr. <br><br>Actualmente estoy estudiando programación en la universidad, a su vez que sigo desarrollandome y ganando conocimientos de forma autodidacta en el ámbito de la programación.<br><br>Si bien se que no tengo mucha experiencia laboral, sobre todo, experiencia que esté orientada a la programación, creo tener las aptitudes necesarias para poder afrontar el puesto de trabajo que se me otorgue.<br><br>Tengo muchas ganas y energias para poder dar el siguiente paso en mi experiencia laboral.
 
 
